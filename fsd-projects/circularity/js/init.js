@@ -57,6 +57,9 @@ var init = function (window) {
       game.checkCirclePosition(circles[4]);
       // TODO 8 / TODO 9 : Iterate over the array
     }
+    for (var i = 0; i < circles.length; i++) {
+      // Code to update each circle
+    }
 
     /* 
         This Function should check the position of a circle that is passed to the 
